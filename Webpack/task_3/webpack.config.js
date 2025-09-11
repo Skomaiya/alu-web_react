@@ -17,6 +17,11 @@ module.exports = {
     new CleanWebpackPlugin(), 
     new HtmlWebpackPlugin() 
   ],
+  optimization: {
+    splitChunks: {
+      chunks: 'all',
+    },
+  },
   devServer: {
     contentBase: path.join(__dirname, './public'),
     compress: true,
