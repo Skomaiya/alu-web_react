@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/alu-web_react/react_intro/task_3/dashboard/static/css/main.a40a419b.css",
-    "main.js": "/alu-web_react/react_intro/task_3/dashboard/static/js/main.cae6eea1.js",
-    "static/js/453.9ab87d04.chunk.js": "/alu-web_react/react_intro/task_3/dashboard/static/js/453.9ab87d04.chunk.js",
-    "static/media/Holberton_logo.jpg": "/alu-web_react/react_intro/task_3/dashboard/static/media/Holberton_logo.24bab5d633e36ca8d17e.jpg",
-    "index.html": "/alu-web_react/react_intro/task_3/dashboard/index.html",
-    "main.a40a419b.css.map": "/alu-web_react/react_intro/task_3/dashboard/static/css/main.a40a419b.css.map",
-    "main.cae6eea1.js.map": "/alu-web_react/react_intro/task_3/dashboard/static/js/main.cae6eea1.js.map",
-    "453.9ab87d04.chunk.js.map": "/alu-web_react/react_intro/task_3/dashboard/static/js/453.9ab87d04.chunk.js.map"
+    "main.css": "/alu-web_react/react_intro/task_4/dashboard/static/css/main.a40a419b.css",
+    "main.js": "/alu-web_react/react_intro/task_4/dashboard/static/js/main.ac977b77.js",
+    "static/js/453.9ab87d04.chunk.js": "/alu-web_react/react_intro/task_4/dashboard/static/js/453.9ab87d04.chunk.js",
+    "static/media/Holberton_logo.jpg": "/alu-web_react/react_intro/task_4/dashboard/static/media/Holberton_logo.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alu-web_react/react_intro/task_4/dashboard/index.html",
+    "main.a40a419b.css.map": "/alu-web_react/react_intro/task_4/dashboard/static/css/main.a40a419b.css.map",
+    "main.ac977b77.js.map": "/alu-web_react/react_intro/task_4/dashboard/static/js/main.ac977b77.js.map",
+    "453.9ab87d04.chunk.js.map": "/alu-web_react/react_intro/task_4/dashboard/static/js/453.9ab87d04.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a40a419b.css",
-    "static/js/main.cae6eea1.js"
+    "static/js/main.ac977b77.js"
   ]
 }
