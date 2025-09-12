@@ -1,5 +1,5 @@
 import logo from './Holberton_logo.jpg';
-import utils from './utils.js';
+import { getFullYear, getFooterCopy} from './utils.js';
 import './App.css';
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
       <button>OK</button>
       </div>
       <div className='App-footer'>
-        <p>Copyright {utils.getFullYear()} - {utils.getFooterCopy(true)}</p>
+        <p>Copyright {getFullYear()} - {getFooterCopy(true)}</p>
       </div>
     </div>
   );
